@@ -1,4 +1,3 @@
-import { title } from "process";
 import React from "react";
 import { FaCheck } from "react-icons/fa";
 import Image from "next/image";
