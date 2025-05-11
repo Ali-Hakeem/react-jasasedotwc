@@ -1,24 +1,11 @@
-import { title } from "process";
 import React from "react";
 import { IoMdChatbubbles } from "react-icons/io";
 import {
-  MdAttachMoney,
-  MdBarChart,
   MdCalendarMonth,
-  MdCardTravel,
-  MdChatBubble,
   MdCleaningServices,
-  MdConstruction,
-  MdCorporateFare,
-  MdDeliveryDining,
-  MdFastForward,
   MdFireTruck,
   MdOutlineMoney,
-  MdOutlineMoneyOff,
-  MdPhoneEnabled,
   MdSupervisedUserCircle,
-  MdTraffic,
-  MdVoiceChat,
 } from "react-icons/md";
 
 const featureData = [
