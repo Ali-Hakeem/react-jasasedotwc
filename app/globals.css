@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@layer components {
+  .bg_clip {
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 34% 100%, 0 92%);
+  }
+  .bg_clip_harga {
+    clip-path: polygon(0 0, 100% 13%, 100% 100%, 0% 100%);
+  }
+}
+
+@custom-variant dark (&:where(.dark, .dark *));
