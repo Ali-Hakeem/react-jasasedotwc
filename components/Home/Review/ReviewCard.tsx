@@ -1,6 +1,4 @@
 import React from "react";
-import { BsQuote } from "react-icons/bs";
-import Image from "next/image";
 
 type Props = {
   name: string;
